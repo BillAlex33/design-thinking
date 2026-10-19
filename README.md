@@ -2,11 +2,22 @@
 
 A practical guide to the Design Thinking methodology — a human-centered approach to innovation and problem-solving.
 
-## What is Design Thinking?
+## What Design Thinking Is About
 
-Design Thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems, and create innovative solutions to prototype and test. It is especially useful for tackling ill-defined or unknown problems.
+Design Thinking is a **human-centered approach to innovation** that puts real people at the heart of the process. It is not a linear checklist or a rigid method — it is a way of thinking and working that helps teams solve complex, ill-defined, or unknown problems by deeply understanding the people they are designing for.
 
-Popularized by IDEO and Stanford d.school, it emphasizes empathy, collaboration, and experimentation.
+At its core, Design Thinking is about:
+
+- **Empathy first** — Starting with the lived experiences, needs, emotions, and pain points of real users rather than assumptions or technology.
+- **Reframing problems** — Looking beyond the obvious symptoms to uncover the deeper challenge worth solving.
+- **Divergent and convergent thinking** — Generating many ideas, then focusing on the most promising ones.
+- **Learning by doing** — Building quick, low-fidelity prototypes and testing them with real people so you can learn fast and improve.
+- **Collaboration** — Bringing together diverse perspectives (designers, engineers, business people, users, etc.) to create better solutions.
+- **Optimism and iteration** — Believing that better solutions exist and being willing to refine them continuously based on feedback.
+
+It was popularized by firms like **IDEO** and institutions like the **Stanford d.school**. Today it is used across product design, service design, organizational change, education, healthcare, and social innovation.
+
+In short: Design Thinking is about **understanding people deeply, defining the right problem, exploring many possibilities, and testing real solutions early and often**.
 
 ## The Five Stages
 
